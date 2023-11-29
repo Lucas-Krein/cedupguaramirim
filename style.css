@@ -1,0 +1,55 @@
+.cabecalhome{
+    background-color:#4476bb;
+    height: 150px;
+}
+.imagem{
+    height: 130px;
+    width: 215px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.cabecalhitens{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    margin-top: -125px;
+    word-spacing: 10px;
+}
+
+.cabecalhitens a{
+    text-decoration: none;
+}
+a:link {
+    color: rgb(0, 0, 0);
+   }
+a:hover {
+    color: rgb(255, 255, 255); 
+
+}.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+
+}.map-responsive iframe{
+    left:0;
+    top:0;
+    height:50%;
+    width:100%;
+    position:absolute;
+}
+.infoimagem{
+    height: 95px;
+    width: 140px;
+    margin-left: 700px;
+}
+.conteudodados{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    text-align: center;
+    margin-top: -100px;
+    margin-right: 50px;
+}
+.dadosgerais{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 30px;
+}
