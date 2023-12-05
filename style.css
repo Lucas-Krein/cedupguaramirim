@@ -2,16 +2,22 @@
     background-color:#4476bb;
     height: 150px;
 }
+
+
 .imagemcedup{
-    margin-left: 860px;
+    margin-left: 850px;
     margin-top: 100px;
 }
+
+
 .imagemcedup a{
     text-decoration: none;
 }
 a:hover {
     color: black;
 }
+
+
 .cabecalhitens{
     font-family: 'Saira Extra Condensed', sans-serif;
     text-align: center;
@@ -19,7 +25,6 @@ a:hover {
     margin-top: -125px;
     word-spacing: 10px;
 }
-
 .cabecalhitens a{
     text-decoration: none;
 }
@@ -29,7 +34,10 @@ a:link {
 a:hover {
     color: rgb(0, 0, 0); 
 
-}.map-responsive{
+}
+
+
+.map-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
     position:relative;
@@ -42,38 +50,72 @@ a:hover {
     width:100%;
     position:absolute;
 }
-.infoimagem{
-    height: 95px;
-    width: 140px;
-    margin-left: 700px;
-    background-color:#4476bb;
-}
-.conteudodados{
-    font-family: 'Saira Extra Condensed', sans-serif;
-    text-align: center;
-    margin-top: -100px;
-    margin-right: 50px;
-    background-color:#4476bb;
-}
+
+
 .conteudohome{
     background-color:#4476bb;
 }
+
+
 .dadosgerais{
     font-family: 'Saira Extra Condensed', sans-serif;
     font-size: 30px;
-    background-color:#4476bb;
+    background-color: #171f32;
+    margin-left: -15px;
+    margin-right: -7px;
+    margin-top: -15px;
 }
+
+
 .bemvindohome{
     font-family: 'Saira Extra Condensed', sans-serif;
     font-size: 150px;
-    background-color:#4476bb;
     text-align: center;
     color: white;
     margin-top: -170px;
 }
-.bemvindohome a{
-    text-decoration: none;
+
+
+.baixohome{
+    background-color: #000000;
+    margin-left: -50px;
+    margin-right: -7px;
+    margin-top: 15px;
 }
-a:hover{
-    color: black;
+
+
+.telefone{ 
+    align-items: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-left: 45px;
+    margin-top: 5px;
 }
+
+
+.whatsapp{
+    align-items: center;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-left: 45px;
+    margin-top: 5px;
+}
+
+
+.bemvindohome {
+    animation: blink 6s infinite;
+  }
+  
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
