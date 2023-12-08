@@ -33,7 +33,7 @@
         <p> 
         <a href="Sobre.html">SOBRE,</a>
         <a href="Cursos.html">CURSOS,</a>
-        <a href="Infraestrutura.html">INFRAESTRUTURA,</a>
+        <a href="Quemsomos.html">QUEM SOMOS,</a>
         <a href="Trabalhe.html">TRABALHE CONOSCO,</a>
         <a href="Eventos.html">EVENTOS.</a>
         </p>
@@ -64,14 +64,32 @@
         
         <form method= post action="mailto: 4543202219@estudante.sed.sc.gov.br"></form>
         
-        <label for="nome">Nome:<br></label>
-        <input type="text" id="nome" name="nome" required placeholder="Digite seu nome"><br>
-
-        <label for="usuario">Informe seu e-mail:<br></label>
-        <input type="email" id="usuario" name="usuario" placeholder="Digite seu email" required><br>
-
-        <label for="pergunta">Deixe uma Mensagem:<br></label>
-        <textarea name="mensagem" id="mensagem" placeholder="Mensagem" required></textarea><br>
+        <form action="mailto: cedupguaramirim@sed.sc.gov.br">
+            <div class="row input-container">
+              <div class="col-xs-12">
+                <div class="styled-input wide">
+                  <br><input type="text" id="nome" name="nome" autocomplete="off" required />
+                  <label for="nome">Nome</label>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-12">
+                <div class="styled-input">
+                  <br><input type="text" id="email" name="email" autocomplete="off" required />
+                  <label for="email">E-mail</label>
+                </div>
+              </div>
+              </div>
+              <div class="col-xs-12">
+                <div class="styled-input wide">
+                  <textarea id="mensagem" name="mensagem" autocomplete="off" required></textarea>
+                  <label for="mensagem" class="mensagemhome">Mensagem</label>
+                </div>
+              </div>
+              <div class="col-xs-12">
+                <button type="submit" class="btn-lrg submit-btn">Enviar mensagem</button>
+              </div>
+            </div>
+        </form>
 
     </div>
 
