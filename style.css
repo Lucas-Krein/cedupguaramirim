@@ -107,7 +107,7 @@ a
     background-color: #171f32;
     margin-left: -50px;
     margin-right: -8px;
-    margin-top: 1101px;
+    margin-top: 1175px;
     height: 210px;
 }
 
@@ -271,11 +271,15 @@ a
   .cabecalhosobre{
     background-color: #4476bb;
     height: 100px;
-    margin-left: -15px;
+    width: 1550px;
+    margin-left: 150px;
+    margin-right: -8px;
+    margin-top: 50px;
     font-family:  'Saira Extra Condensed', sans-serif;
     font-size: 45px;
     font-weight: 600;
-    color: white;
+    color: rgb(0, 0, 0);
+    border-radius: 55px;
   }
    
 
@@ -286,25 +290,29 @@ a
 
   .voltar{
     margin-top: -90px;
-    margin-left: 625px;
+    margin-left: 425px;
   }
 
 
   .cedupsobre{
-    background-color: #171f32;
+    background-color: #47ace0;
     height: 1000px;
-    margin-left: -10px;
+    margin-right: -3px;
   }
 
 
   .cabecalhocursos{
     background-color: #4476bb;
     height: 100px;
-    margin-left: -15px;
+    width: 1550px;
+    margin-left: 150px;
+    margin-right: -8px;
+    margin-top: 50px;
     font-family:  'Saira Extra Condensed', sans-serif;
     font-size: 45px;
     font-weight: 600;
-    color: white;
+    color: rgb(0, 0, 0);
+    border-radius: 55px;
   }
    
 
@@ -313,14 +321,489 @@ a
     margin-top: 10px;
   }
 
+
+  .imagemsomos{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+
   .cursos{
     margin-top: -90px;
-    margin-left: 625px;
+    text-align: center;
+  }
+
+  .fundocursos{
+    height: 5000px;
+    padding-top: 50px;
+    background-color: #47ace0;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -55px;
   }
 
 
   .cedupcursos{
-    background-color: #171f32;
+    background-color: #47ace0;
     height: 1000px;
     margin-left: -10px;
+    margin-right: -8px;
+    font-family:'Saira Extra Condensed', sans-serif ;
+    font-size: 50px;
+    text-align: center;
+  }
+
+
+  .historia{
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 70px;
+    text-align: center;
+  }
+
+
+  .cabecalhoquemsomos{
+    background-color: #4476bb;
+    height: 100px;
+    width: 1550px;
+    margin-left: 150px;
+    margin-right: -8px;
+    margin-top: 50px;
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    border-radius: 55px;
+  }
+
+
+  .cedupsomos{
+    background-color: #47ace0;
+    height: 1000px;
+    margin-left: -5px;
+    margin-right: -8px;
+  }
+
+
+  .quemsomos{
+    margin-top: -90px;
+    text-align: center;
+  }
+
+
+  .quems{
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 70px;
+    text-align: center;
+  }
+
+
+  .cabecalhotrabalhe{
+    background-color: #4476bb;
+    height: 100px;
+    width: 1550px;
+    margin-left: 150px;
+    margin-right: -8px;
+    margin-top: 50px;
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    border-radius: 55px;
+  }
+
+
+  .imagemconosco{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+
+  .trabalheconosco{
+    margin-top: -90px;
+    text-align: center;
+  }
+
+
+  .cabecalhoeventos{
+    background-color: #4476bb;
+    height: 100px;
+    width: 1550px;
+    margin-left: 150px;
+    margin-right: -8px;
+    margin-top: 50px;
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    border-radius: 55px;
+  }
+
+
+  .imagemeventos{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+
+  .eventos{
+    margin-top: -90px;
+    text-align: center;
+  }
+
+
+  .cedupeventos{
+    background-color: #47ace0;
+    height: 1000px;
+    margin-left: -5px;
+    margin-right: -8px;
+  }
+
+
+  .even{
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 70px;
+    text-align: center;
+  }
+
+
+  .cabecalhomatriculas{
+    background-color:#171f32 ;
+    height: 100px;
+    margin-left: -15px;
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    color: white;
+    margin-top: -10px;
+  }
+
+
+  .imagemmatricula{
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+
+
+  .matriculas{
+    margin-top: -90px;
+    text-align: center;
+  }
+
+
+  .cedupmatricula{
+    background-color: #4476bb;
+    height: 1000px;
+    margin-left: -5px;
+    margin-right: -8px;
+  }
+
+
+  .matri{
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 70px;
+    text-align: center;
+  }
+
+
+  .conteudosobre{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 27px;
+    font-weight: 600;
+    margin-left: 45px;
+    margin-right: 10px;
+  }
+
+
+  .fotocedupsobre{
+    border-radius: 450px;
+    margin-left: 250px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 860px;
+    max-height: 720px;
+    height: 540px;
+  }
+
+
+
+
+  .fundosobre{
+    height: 5000px;
+    padding-top: 50px;
+    background-color: #47ace0;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -55px;
+  }
+
+
+  .infraestrutura{
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 70px;
+    text-align: center;
+  }
+
+  .estacionamentosobre{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 3px black;
+    margin-left: 50px;
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+  [data-tooltip] {
+    position: relative;
+    font-weight: bold;
+
+  }
+  
+  [data-tooltip]:after {
+    display: none;
+    position: absolute;
+    top: -5px;
+    padding: 10px;
+    border-radius: 30px;
+    left: calc(15%);
+    right: calc(15%);
+    content: attr(data-tooltip); 
+    background-color: #4476bb;
+    color: rgb(0, 0, 0);
+    font-family:'Saira Extra Condensed', sans-serif;
+    font-size: 27px;
+    max-width: 6000px;
+    word-wrap: normal;
+    height: 600px;
+    width: 600px;
+  }
+  
+  [data-tooltip]:hover:after {
+    display: block;
+  }
+
+  
+  .ginasiosobre{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 3px black;
+    margin-left: 250px;
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+
+  .externasobre{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 3px black;
+    margin-left: 200px;
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .acimaimagens{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 150px;
+    word-spacing: 500px;
+  }
+
+  .estaciocima{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    margin-left: 199px;
+  }
+
+  .ginasiocima{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    margin-left: 915px;
+    margin-top: -50px;
+  }
+
+  .areacima{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    margin-left: 1498px;
+  }
+
+  .bibliotecasobre{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .imagembibli{
+    border-radius: 50%;
+    margin-left: 250px; 
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 860px;
+    max-height: 720px;
+    height: 440px;
+    width: 440px;
+    margin-top: -60px;
+  }
+
+  .biblioteca{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    margin-left: 45px;
+    margin-right: 10px;
+  }
+
+  .cardapiosobre{
+    font-family:  'Saira Extra Condensed', sans-serif;
+    font-size: 100px;
+    text-align: center;
+  }
+
+  .matutino{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    align-items: center;
+    border: 4px solid black;
+    border-color: black ;
+    margin-left: -15px;
+
+  }
+
+  .segundamatutino{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    border: 4px solid black;
+    border-color: black ;
+    width: 100px;
+    margin-left: 15px;
+    font-weight: 600;
+  }
+  .tercamatutino{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    border: 4px solid black;
+    border-color: black ;
+    width: 100px;
+    margin-left: 15px;
+    font-weight: 600;
+  }
+  .quartamatutino{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    border: 4px solid black;
+    border-color: black ;
+    width: 100px;
+    margin-left: 15px;
+    font-weight: 600;
+  }
+  .quintamatutino{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    border: 4px solid black;
+    border-color: black ;
+    width: 100px;
+    margin-left: 15px;
+    font-weight: 600;
+  }
+  .sextamatutino{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    border: 4px solid black;
+    border-color: black ;
+    width: 100px;
+    margin-left: 15px;
+  }
+
+  .cardapiointeiro{
+    margin-left: 350px;
+  }
+
+  .fundoquemsomos{
+    height: 1800px;
+    padding-top: 50px;
+    background-color: #47ace0;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -55px;
+  }
+
+  .trabalhefundo{
+    height: 2000px;
+    padding-top: 50px;
+    background-color: #47ace0;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -55px;
+  }
+
+  .fundoeventos{
+    height: 5000px;
+    padding-top: 50px;
+    background-color: #47ace0;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -55px;
+  }
+
+  .rosto{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 20px;
+  }
+
+  .blabla{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 70px;
+    font-weight: 600;
+    margin-top: -25px;
+  }
+
+  .trabalhe{
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  .eventoimagem{
+    height: 450px;
+    width: 650px;
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 860px;
+    max-height: 720px;
+    height: 540px;
+  }
+
+  .evento1{
+    border: 5px solid black;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 45px;
+    font-weight: 300;
+  }
+
+  .logisticafoto{
+    height: 350px;
+    width: 300px;
+    margin-top: -850px;
   }
